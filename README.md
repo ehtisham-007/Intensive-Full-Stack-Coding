@@ -1,4 +1,7 @@
+# My First JavaScript Project
 
-# Intensive-Full-Stack-Coding
-40 hours of intensive coding education bridging your n8n expertise to full-stack development!
+This is my learning repository for JavaScript fundamentals.
 
+## Files:
+- index.html: Main HTML file
+- script.js: JavaScript code
